@@ -22,6 +22,3 @@ I used the unprocessed images found on Kaggle:
 * Created a Deep-Learning Environment for Tensorflow and Keras and transfered the work to Google Colab .
 * Used Keras Preprocessing on the images to resize and to augment
 * Trained it on a sample of 5000 images of each class (10000 in totals) with only 50% accuracy rate. 
-
-**Currently:**
-I have started over and changed the model to use the LazyAdam optimizer and will process the images differently.  I am researching best ways to preprocess the images.  Stay tuned for updates.
